@@ -8,4 +8,4 @@ A heavy spike in the traffic would easily say that your DDoS mitigation systems 
 
 ## Mitigate These Attacks
 
-[Ref to our DDoS mitigation guide](mitigate/browser-emulation-mitigate.md)
+[Ref to our DDoS mitigation guide](mitigation/browser-emulation-mitigate.md)

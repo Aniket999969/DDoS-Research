@@ -49,7 +49,7 @@ Below code uses a libaray called [playwright](https://playwright.dev/docs/api/cl
 
 # How to Mitigate?
 
-[Ref to DDoS mitigation guide to eliminate](mitigate/browser-emulation-mitigate.md)
+[Ref to DDoS mitigation guide to eliminate](mitigation/browser-emulation-mitigate.md)
 
 # How to Detect?
 
