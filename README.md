@@ -18,7 +18,7 @@
 
 ## Mitigation
 - HTTPS / L7
-  - [Browser Emulation](mitigate/browser-emulation-mitigate.md)
+  - [Browser Emulation](mitigation/browser-emulation-mitigate.md)
 
 ## Network Security Tools
 

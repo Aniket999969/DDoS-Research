@@ -49,11 +49,11 @@ Below code uses a libaray called [playwright](https://playwright.dev/docs/api/cl
 
 # How to Mitigate?
 
-[Ref to DDoS mitigation guide to eliminate](mitigation/browser-emulation-mitigate.md)
+[Ref to DDoS mitigation guide to eliminate](/mitigation/browser-emulation-mitigate.md)
 
 # How to Detect?
 
-[Ref on how to detect these kind of attcks](detection/browser-emulation-detect.md)
+[Ref on how to detect these kind of attcks](/detection/browser-emulation-detect.md)
 
 # Links
 [Javascript Challenge](https://nginx-extras.getpagespeed.com/modules/js-challenge/)
