@@ -27,6 +27,7 @@ Now a browser emulation script cannot decrypt the encrypted cookie.
 testcookie_max_attempts 3; 
 testcookie_arg ckattempt;
 testcookie_httponly_flag on;
+testcookie_secure_flag on;
 ```
 
 # Warning!
